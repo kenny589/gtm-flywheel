@@ -101,6 +101,8 @@ Not all signals are equal. Score each signal to prioritize outreach:
 | **Specificity** | Specific to your exact category | Related to your general space | Broadly related |
 | **Source reliability** | First-party or verified third-party | Public, verifiable | Inferred or aggregated |
 
+**Maximum signal age.** A signal older than the campaign's maximum signal age (see the Signal-Based Campaign Brief) is not a signal: don't score it. If no maximum is set, use 90 days, where the Recency column ends.
+
 #### Scoring Formula
 
 ```
